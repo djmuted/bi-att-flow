@@ -18,7 +18,7 @@ flags.DEFINE_string("load_path", "", "Load path []")
 flags.DEFINE_string("shared_path", "", "Shared path []")
 flags.DEFINE_string("out_dir", "out", "out dir [out]")
 flags.DEFINE_string("save_dir", "save", "save dir [save]")
-flags.DEFINE_string("log_dir", "log", "log dir [log]")
+#flags.DEFINE_string("log_dir", "log", "log dir [log]")
 flags.DEFINE_string("eval_dir", "eval", "eval dir [eval]")
 flags.DEFINE_string("answer_dir", "answer", "answer dir [answer]")
 
